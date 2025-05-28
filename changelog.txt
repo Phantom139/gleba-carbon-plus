@@ -1,6 +1,8 @@
 ---------------------------------------------------------------------------------------------------
 Version: 1.0.2
 Date: 2025-05-28
+  Compatibility:
+    - Adjusted the mod to be compatible with Lignumis
   Changes:
     - Fixed the missing descriptions on the technology entries
 ---------------------------------------------------------------------------------------------------
