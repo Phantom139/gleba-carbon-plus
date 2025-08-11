@@ -5,6 +5,6 @@
   "author": "Phantom139",
   "factorio_version": "2.0",
   "space_travel_required": true,
-  "dependencies": [ "base >= 2.0.47", "space-age", "? Diversitree", "!Diversitree"],
+  "dependencies": [ "base >= 2.0.47", "space-age", "? Diversitree"],
   "description": "Adds the ability to plant and grow trees on Gleba to produce coal at a more effective rate compared to coal synthesis. Also introduces productivity researches for additional Gleba products; All fully customizable through mod settings."
 }
