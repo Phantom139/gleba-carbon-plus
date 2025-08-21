@@ -1,4 +1,9 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.0.6
+Date: 2025-08-20
+  Bugfixes:
+    - 1.0.4 mistakenly removed the change for the wood processing recipe to be allowed on Gleba. This has been re-added as intended.
+---------------------------------------------------------------------------------------------------
 Version: 1.0.5
 Date: 2025-08-12
   Compatibility:
